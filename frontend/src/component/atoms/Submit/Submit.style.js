@@ -1,0 +1,15 @@
+export const submitStyle = {
+  height: 'auto',
+  fontSize: 'var(--font-size-medium)',
+  fontWeight: '700',
+  borderRadius: '6px',
+  padding: '8px 16px',
+  border: '1px solid var(--primary-color)',
+  letterSpacing: 'normal',
+  lineHeight: '20px',
+  width: '15vw',
+  minWidth: '380px',
+  background: 'var(--primary-color)',
+  color: 'var(--light-color)',
+  cursor: 'pointer',
+};
